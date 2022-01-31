@@ -30,3 +30,4 @@ npx solhint 'contracts/**/*.sol' --fix
 
 # DemyGames-Smart-Contracts
 # smart-contracts
+# smart-contracts
